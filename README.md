@@ -3,6 +3,7 @@
 I'm a Full Stack Developer with a background in chips design for semiconductors industry and very excited to widen my innovation passion through Web Development Applications.
 
 My skill set covers:
+<br>
 ‣ Frontend : HTML5 - CSS3 - jQuery - React.js - Vue.js
 ‣ Backend : Node.js - Express - REST APIs - Socket.io - Postgres - Heroku - AWS S3
 ‣ Testing : Jest
